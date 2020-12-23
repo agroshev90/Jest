@@ -1,0 +1,31 @@
+{
+  "name": "jest-unit-testing",
+  "version": "1.0.0",
+  "description": "Unit tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agroshev90/Jest.git"
+  },
+  "keywords": [
+    "js",
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "Anton Groshev <agroshev90@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agroshev90/Jest/issues"
+  },
+  "homepage": "https://github.com/agroshev90/Jest#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
